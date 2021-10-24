@@ -1,0 +1,9 @@
+{
+	"Args": [
+		"run",
+		"--simple-console"
+	],
+	"FailedItems": [
+		"specs/example.spec:8"
+	]
+}
